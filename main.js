@@ -1,5 +1,5 @@
-Moralis.initialize("LumegJESEhsBaUzarK3LFNVUpMLW8bLUQNvgUMbC");
-Moralis.serverURL = "https://8l1hpwx2jdjy.grandmoralis.com:2053/server";
+const appId = "LumegJESEhsBaUzarK3LFNVUpMLW8bLUQNvgUMbC";
+const serverUrl = "https://8l1hpwx2jdjy.grandmoralis.com:2053/server";
 
 let currentTrade = {};
 let currentSelectSide;
